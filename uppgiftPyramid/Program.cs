@@ -6,8 +6,8 @@ namespace uppgiftPyramid
     {
         static void Main(string[] args)
         {
-            //min kommentar 
-            // askthe user for a umber
+            //min kommentar nummer 2 är bäst
+            // ask user for a number
             Console.Write("Hej, ange en siffra: ");
             int chosenNumber = int.Parse(Console.ReadLine());
 
